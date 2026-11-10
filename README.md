@@ -1,0 +1,6 @@
+
+HealthCare Hub is an AI-powered integrated healthcare platform developed to improve access to healthcare services by connecting patients, doctors, pharmacies, and diagnostic centres through a single system. The main objective of the project is to simplify healthcare management and support users through digital healthcare services and AI-based features.
+
+The platform was developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It provides features for managing healthcare interactions and accessing medical services. One of its key features is an AI-based medical report analysis system that uses Optical Character Recognition (OCR) to extract information from uploaded laboratory reports. The extracted thyroid-related data is then analysed using a Random Forest classification model to identify possible thyroid conditions, including normal, hypothyroidism, and hyperthyroidism. The system also includes rule-based medicine suggestions to provide additional support based on the analysis.
+
+The project combines web development, data processing, and machine learning to create an integrated healthcare solution. It demonstrates how artificial intelligence can be incorporated into practical applications to support medical information analysis and improve the accessibility and organisation of healthcare services.
